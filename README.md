@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Signal75&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSignal75&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Signal75&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
