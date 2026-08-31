@@ -17,12 +17,10 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📌 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Signal75&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Signal75&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
-</p>
+* 🔍 **Nexora:** Aplicación de escritorio en C# orientada al análisis forense de texto y persistencia de documentos.
+* 🤖 **Sistema de Clasificación IoT:** Control de banda transportadora con ESP32, sensor TCS3200 y brazo robótico.
 
 ---
 
