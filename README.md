@@ -1,7 +1,7 @@
 # ¡Hola! Soy Patricio 👋
 
 ### 🚀 Sobre mí
-- 💻 Actualmente me enfoco en el desarrollo **Backend** con **C# / .NET** y **Python**, aunque busco crecer y llegar a Full Stack.
+- 💻 Actualmente estudio y aprendo con enfoque en el desarrollo **Backend** con **C# / .NET** y **Python**, aunque busco crecer y llegar a Full Stack.
 - 🛢️ Trabajo y aprendo con bases de datos relacionales como **PostgreSQL** y **MySQL**.
 - 🛠️ Interesado en arquitectura de software, **APIs REST** e integración con hardware e **IoT**.
 - 🎓 Estudiante de Ingeniería / Tecnologías de la Información.
