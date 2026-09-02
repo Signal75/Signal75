@@ -19,7 +19,7 @@
 
 ### 📌 Proyectos Destacados
 
-* 🔍 **Nexora:** Aplicación de escritorio en C# orientada al análisis forense de texto y persistencia de documentos.
+* 🔍 **Maatnex:** Aplicación de escritorio en C# orientada al análisis forense de texto y persistencia de documentos.
 * 🤖 **Sistema de Clasificación IoT:** Control de banda transportadora con ESP32, sensor TCS3200 y brazo robótico.
 
 ---
